@@ -108,31 +108,6 @@ export default function Header() {
             </li>
           </ul>
 
-          <ul>
-            <li>
-              <a href="" title="Link">Link text</a>
-            </li>
-
-            <li>
-              <a href="" title="Link">Link text</a>
-            </li>
-
-            <li>
-              <a href="" title="Link">Link text</a>
-            </li>
-
-            <li>
-              <a href="" title="Link">Link text</a>
-            </li>
-
-            <li>
-              <a href="" title="Link">Link text</a>
-            </li>
-
-            <li>
-              <a href="" title="Link">Link text</a>
-            </li>
-          </ul>
         </section>
 
         <div className="section footer-support">
