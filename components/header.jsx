@@ -10,10 +10,10 @@ export default function Header() {
                 Toll Free 1-877-666-1840
               </a>
             </li>
-
+            <input type="text" id="" name="" />
             <li>
               <a href="mailto:office@traidaffairs.com" title="Email Us">
-              office@traidaffairs.com
+                office@traidaffairs.com
               </a>
             </li>
           </ul>
@@ -23,13 +23,13 @@ export default function Header() {
           <ul>
             <li>
               <a href="" title="Menu">
-              <i className="fa-solid fa-bars"></i>
+                <i className="fa-solid fa-bars"></i>
               </a>
             </li>
 
             <li>
               <a href="" title="Search">
-              <i className="fa-solid fa-magnifying-glass"></i>
+                <i className="fa-solid fa-magnifying-glass"></i>
               </a>
             </li>
           </ul>
@@ -40,46 +40,52 @@ export default function Header() {
             <a href="" title="Account">
               <img src="/images/user-avatar.png" alt="User"></img>
 
-            <i className="fa-solid fa-angle-down"></i>
+              <i className="fa-solid fa-angle-down"></i>
             </a>
           </section>
 
           <section className="cart-controls">
             <a href="" title="Cart">
-            <i className="fas fa-shopping-cart"></i>
-            <span className="cart-qty">3</span>
+              <i className="fas fa-shopping-cart"></i>
+              <span className="cart-qty">3</span>
             </a>
           </section>
         </div>
         <div className="header-logo text-center">
           <a href="https://nbc.com" title="">
-          <img src="/images/logo.jpg" alt="Thread Affair - Logo"></img>
+            <img src="/images/logo.jpg" alt="Thread Affair - Logo"></img>
           </a>
         </div>
       </section>
 
       <section className="header-primary d-none d-lg-block">
-
-
         <nav className="nav-primary d-flex flex-row justify-content-center">
           <ul>
             <li>
-              <a href="" title="Costume">Costume</a>
+              <a href="" title="Costume">
+                Costume
+              </a>
             </li>
           </ul>
           <ul>
             <li>
-              <a href="" title="Costume">Costume</a>
+              <a href="" title="Costume">
+                Costume
+              </a>
             </li>
           </ul>
           <ul>
             <li>
-              <a href="" title="Costume">Costume</a>
+              <a href="" title="Costume">
+                Costume
+              </a>
             </li>
           </ul>
           <ul>
             <li>
-              <a href="" title="Costume">Costume</a>
+              <a href="" title="Costume">
+                Costume
+              </a>
             </li>
           </ul>
         </nav>
@@ -87,29 +93,37 @@ export default function Header() {
         <nav className="nav-secondary d-flex flex-row justify-content-center gap-4">
           <ul>
             <li>
-              <a href="" title="Office suits">Office Suits</a>
+              <a href="" title="Office suits">
+                Office Suits
+              </a>
             </li>
           </ul>
 
           <ul>
             <li>
-              <a href="" title="Office suits">Office Suits</a>
+              <a href="" title="Office suits">
+                Office Suits
+              </a>
             </li>
           </ul>
 
           <ul>
             <li>
-              <a href="" title="Office suits">Office Suits</a>
+              <a href="" title="Office suits">
+                Office Suits
+              </a>
             </li>
           </ul>
 
           <ul>
             <li>
-              <a href="" title="Office suits">Office Suits</a>
+              <a href="" title="Office suits">
+                Office Suits
+              </a>
             </li>
           </ul>
         </nav>
       </section>
     </header>
-  )
+  );
 }
