@@ -158,7 +158,7 @@ export default function Header() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of men’s designer suits.{' '}
+              brilliant collection of mens designer suits.{' '}
             </p>
 
             <p>
