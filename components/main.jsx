@@ -1,5 +1,5 @@
-import ProductTile from ./catalog/product-tile;
-import HomeNewsletter from ./homepage/home-newsletter;
+import ProductTile from './catalog/product-tile';
+import HomeNewsletter from './homepage/home-newsletter';
 
 export default function Header() {
   return (
@@ -44,11 +44,11 @@ export default function Header() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of men’s designer suits.{ }
+              brilliant collection of men’s designer suits.{' '}
             </p>
 
             <p>
-              { }
+              {' '}
               For the finest custom tailored experience, be sure to explore our
               selection of premium fabrics from one of the worlds oldest fabric
               mills, Vitale Barberis Canonico.
@@ -84,11 +84,11 @@ export default function Header() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of mens designer suits.{ }
+              brilliant collection of mens designer suits.{' '}
             </p>
 
             <p>
-              { }
+              {' '}
               For the finest custom tailored experience, be sure to explore our
               selection of premium fabrics from one of the worlds oldest fabric
               mills, Vitale Barberis Canonico.
@@ -118,11 +118,11 @@ export default function Header() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of mens designer suits.{ }
+              brilliant collection of mens designer suits.{' '}
             </p>
 
             <p>
-              { }
+              {' '}
               For the finest custom tailored experience, be sure to explore our
               selection of premium fabrics from one of the worlds oldest fabric
               mills, Vitale Barberis Canonico.
@@ -158,11 +158,11 @@ export default function Header() {
 
             <p>
               Accomplish new achievements with a bold new style from the
-              brilliant collection of mens designer suits.{ }
+              brilliant collection of mens designer suits.{' '}
             </p>
 
             <p>
-              { }
+              {' '}
               For the finest custom tailored experience, be sure to explore our
               selection of premium fabrics from one of the worlds oldest fabric
               mills, Vitale Barberis Canonico.
